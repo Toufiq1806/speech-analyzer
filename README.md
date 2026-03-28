@@ -21,17 +21,17 @@ This is a beginner data engineering style project that demonstrates:
 ## Technologies Used
 Python  
 Pandas  
-Requests  
+Requests
 BeautifulSoup  
 ## What I Learned
-How to scrape data from websites
-How to clean and process text data
-How to convert raw data into datasets
-How data pipelines work
+How to scrape data from websites,
+How to clean and process text data,
+How to convert raw data into datasets,
+How data pipelines work,
 ## Future Improvements
-Analyze multiple speeches
-Create visualizations
-Build a dashboard
-Store data in a database
+Analyze multiple speeches,
+Create visualizations,
+Build a dashboard,
+Store data in a database,
 
 Author: Mohamed Toufiq
