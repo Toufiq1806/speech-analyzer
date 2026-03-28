@@ -23,12 +23,12 @@ Python
 Pandas  
 Requests  
 BeautifulSoup  
-!!!What I Learned
+## What I Learned
 How to scrape data from websites
 How to clean and process text data
 How to convert raw data into datasets
 How data pipelines work
-!!!Future Improvements
+## Future Improvements
 Analyze multiple speeches
 Create visualizations
 Build a dashboard
