@@ -1,0 +1,1 @@
+stopwords=['the','and','to','of','we','our','us','i','my','me','you','your','it','they','their','is','are','was','were','be','been','have','has','had','do','did','does','will','can','would','could','in','on','at','by','with','from','that','which','who','for','but','if','or','so','as','than','about','a','this','can']
